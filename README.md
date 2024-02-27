@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daved30
 - 👀 I’m interested in Java, Spring Boot, MongoDB, Backend Development
-- 🌱 I’m currently learning Spring Boot, MongoDB, Backend Development
-- 💞️ I’m looking to collaborate on Java, Spring Boot, MongoDB, Backend Development
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Frontend Development
+- 💞️ I’m looking to collaborate on Java, Spring Boot, MongoDB, Backend Development and also a little into Frontend technologies too.
 - 📫 How to reach me Email ID - ERDEBENDRA30@GMAIL.COM
 
 <!---
